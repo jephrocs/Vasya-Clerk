@@ -36,3 +36,10 @@ tickets = (peopleInLine) => {
         return 'NO'
     } else return 'YES'
 }
+
+
+
+//tickets = (peopleInLine) => {
+//    var check = (peopleInLine.includes(25))
+//    var twent = 0
+   
